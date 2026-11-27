@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+data/*
+!data/mock/
+data/mock/*
+!data/mock/users.csv
+!data/mock/posts.csv
+!data/mock/comments.csv
+check_graph.py
+graph_check.png
+.env
+.vscode/
+*.pdf
